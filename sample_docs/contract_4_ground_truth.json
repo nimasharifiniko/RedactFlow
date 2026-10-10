@@ -1,0 +1,18 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Ian Howell"
+    },
+    {
+        "type": "EMAIL",
+        "text": "sgute@aol.de"
+    },
+    {
+        "type": "IBAN",
+        "text": "FR3273445523590389534754344"
+    },
+    {
+        "type": "PHONE",
+        "text": "(04034) 43676"
+    }
+]

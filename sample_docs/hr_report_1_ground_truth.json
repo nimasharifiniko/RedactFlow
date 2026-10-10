@@ -1,0 +1,14 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Robert Gonzalez"
+    },
+    {
+        "type": "EMAIL",
+        "text": "rita54@gmx.de"
+    },
+    {
+        "type": "PHONE",
+        "text": "+49(0)9752 115101"
+    }
+]

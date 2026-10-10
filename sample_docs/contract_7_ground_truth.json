@@ -1,0 +1,18 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Henri Bouvet-Vidal"
+    },
+    {
+        "type": "EMAIL",
+        "text": "ylang@gmail.com"
+    },
+    {
+        "type": "IBAN",
+        "text": "DE41486419588680705214"
+    },
+    {
+        "type": "PHONE",
+        "text": "933-521-2904x4599"
+    }
+]

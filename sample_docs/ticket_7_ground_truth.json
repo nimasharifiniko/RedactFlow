@@ -1,0 +1,18 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Gabriel Merle"
+    },
+    {
+        "type": "EMAIL",
+        "text": "nchretien@tele2.fr"
+    },
+    {
+        "type": "IP_ADDRESS",
+        "text": "133.113.16.39"
+    },
+    {
+        "type": "CREDIT_CARD",
+        "text": "4995443076762237"
+    }
+]

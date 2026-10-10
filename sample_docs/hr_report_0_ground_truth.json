@@ -1,0 +1,14 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Julia Roberts"
+    },
+    {
+        "type": "EMAIL",
+        "text": "jwolfe@yahoo.com"
+    },
+    {
+        "type": "PHONE",
+        "text": "(861)957-2277x691"
+    }
+]

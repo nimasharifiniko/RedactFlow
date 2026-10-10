@@ -1,0 +1,14 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Rémy Schneider"
+    },
+    {
+        "type": "EMAIL",
+        "text": "robert00@yahoo.de"
+    },
+    {
+        "type": "PHONE",
+        "text": "0214930635"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Jasmin Schuster"
+    },
+    {
+        "type": "EMAIL",
+        "text": "wgraham@yahoo.com"
+    },
+    {
+        "type": "IBAN",
+        "text": "DE13527935456689497727"
+    },
+    {
+        "type": "PHONE",
+        "text": "06 02 29 92 93"
+    }
+]

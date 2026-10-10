@@ -1,0 +1,18 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Kenneth Lucas"
+    },
+    {
+        "type": "EMAIL",
+        "text": "karenarnold@gmail.com"
+    },
+    {
+        "type": "IP_ADDRESS",
+        "text": "191.102.207.90"
+    },
+    {
+        "type": "CREDIT_CARD",
+        "text": "4852446715102725"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Kristian Kabus"
+    },
+    {
+        "type": "EMAIL",
+        "text": "hamannmarten@aol.de"
+    },
+    {
+        "type": "IBAN",
+        "text": "DE65001493203376642646"
+    },
+    {
+        "type": "PHONE",
+        "text": "0279962568"
+    }
+]

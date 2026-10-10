@@ -1,0 +1,18 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Jeffrey Estrada"
+    },
+    {
+        "type": "EMAIL",
+        "text": "jeremy17@hotmail.com"
+    },
+    {
+        "type": "IBAN",
+        "text": "DE98471724622315628375"
+    },
+    {
+        "type": "PHONE",
+        "text": "+49(0)4875 88306"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Caroline Fisher"
+    },
+    {
+        "type": "EMAIL",
+        "text": "frederiqueblanchet@club-internet.fr"
+    },
+    {
+        "type": "IP_ADDRESS",
+        "text": "221.84.45.251"
+    },
+    {
+        "type": "CREDIT_CARD",
+        "text": "4147419854071170"
+    }
+]

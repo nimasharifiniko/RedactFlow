@@ -1,0 +1,18 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Cosimo Flantz"
+    },
+    {
+        "type": "EMAIL",
+        "text": "honoredupre@yahoo.fr"
+    },
+    {
+        "type": "IP_ADDRESS",
+        "text": "204.137.206.34"
+    },
+    {
+        "type": "CREDIT_CARD",
+        "text": "4491133980282435"
+    }
+]

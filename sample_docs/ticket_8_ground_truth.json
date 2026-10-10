@@ -1,0 +1,18 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Antoine Marin"
+    },
+    {
+        "type": "EMAIL",
+        "text": "dimitrios36@googlemail.com"
+    },
+    {
+        "type": "IP_ADDRESS",
+        "text": "32.152.196.152"
+    },
+    {
+        "type": "CREDIT_CARD",
+        "text": "4960277676295524"
+    }
+]

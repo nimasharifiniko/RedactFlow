@@ -1,0 +1,18 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Jessica Orr"
+    },
+    {
+        "type": "EMAIL",
+        "text": "fergusonjames@gmail.com"
+    },
+    {
+        "type": "IBAN",
+        "text": "FR2064516121591398116936218"
+    },
+    {
+        "type": "PHONE",
+        "text": "+49(0)1731 576376"
+    }
+]

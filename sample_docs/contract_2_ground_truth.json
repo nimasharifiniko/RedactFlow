@@ -1,0 +1,18 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Hans-Willi Gertz"
+    },
+    {
+        "type": "EMAIL",
+        "text": "paullefevre@bouygtel.fr"
+    },
+    {
+        "type": "IBAN",
+        "text": "GB21DPBV07623992829607"
+    },
+    {
+        "type": "PHONE",
+        "text": "(00355) 623889"
+    }
+]

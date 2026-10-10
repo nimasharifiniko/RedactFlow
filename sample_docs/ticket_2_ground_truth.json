@@ -1,0 +1,18 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Jessica Pena"
+    },
+    {
+        "type": "EMAIL",
+        "text": "istvan21@googlemail.com"
+    },
+    {
+        "type": "IP_ADDRESS",
+        "text": "207.162.170.183"
+    },
+    {
+        "type": "CREDIT_CARD",
+        "text": "4359363484930442"
+    }
+]

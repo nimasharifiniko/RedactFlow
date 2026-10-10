@@ -1,0 +1,14 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Wendy Stewart"
+    },
+    {
+        "type": "EMAIL",
+        "text": "omartin@yahoo.com"
+    },
+    {
+        "type": "PHONE",
+        "text": "+33 6 79 34 28 16"
+    }
+]

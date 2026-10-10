@@ -1,0 +1,18 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Nathalie-Claude Masson"
+    },
+    {
+        "type": "EMAIL",
+        "text": "ymoreau@yahoo.fr"
+    },
+    {
+        "type": "IBAN",
+        "text": "DE51435523284124645027"
+    },
+    {
+        "type": "PHONE",
+        "text": "+33 3 45 52 91 51"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Douglas Smith"
+    },
+    {
+        "type": "EMAIL",
+        "text": "etienne40@orange.fr"
+    },
+    {
+        "type": "PHONE",
+        "text": "+33 4 65 92 69 22"
+    }
+]

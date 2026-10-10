@@ -1,0 +1,14 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Hagen Zahn"
+    },
+    {
+        "type": "EMAIL",
+        "text": "samanthacosta@yahoo.com"
+    },
+    {
+        "type": "PHONE",
+        "text": "(722)770-2271"
+    }
+]

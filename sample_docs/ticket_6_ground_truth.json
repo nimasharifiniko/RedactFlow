@@ -1,0 +1,18 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Kathrin Lehmann B.A."
+    },
+    {
+        "type": "EMAIL",
+        "text": "h-dieterhenk@googlemail.com"
+    },
+    {
+        "type": "IP_ADDRESS",
+        "text": "145.93.22.113"
+    },
+    {
+        "type": "CREDIT_CARD",
+        "text": "4530733500468274"
+    }
+]

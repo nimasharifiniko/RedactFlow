@@ -1,0 +1,18 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Patrick Chauveau de la Besnard"
+    },
+    {
+        "type": "EMAIL",
+        "text": "poulainadelaide@tele2.fr"
+    },
+    {
+        "type": "IBAN",
+        "text": "GB89XZOE97143804170814"
+    },
+    {
+        "type": "PHONE",
+        "text": "+49(0)5194 103150"
+    }
+]

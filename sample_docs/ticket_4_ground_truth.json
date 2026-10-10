@@ -1,0 +1,18 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Elisabeth Knappe-Häring"
+    },
+    {
+        "type": "EMAIL",
+        "text": "descampsjuliette@ifrance.com"
+    },
+    {
+        "type": "IP_ADDRESS",
+        "text": "133.83.209.152"
+    },
+    {
+        "type": "CREDIT_CARD",
+        "text": "4398579755218745"
+    }
+]

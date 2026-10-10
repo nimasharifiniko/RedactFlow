@@ -1,0 +1,18 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Robert Williams"
+    },
+    {
+        "type": "EMAIL",
+        "text": "guerinxavier@dbmail.com"
+    },
+    {
+        "type": "IP_ADDRESS",
+        "text": "202.58.6.84"
+    },
+    {
+        "type": "CREDIT_CARD",
+        "text": "4426388789300735"
+    }
+]

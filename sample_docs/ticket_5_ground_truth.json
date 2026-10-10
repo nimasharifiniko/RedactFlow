@@ -1,0 +1,18 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Katherine Stewart"
+    },
+    {
+        "type": "EMAIL",
+        "text": "prevostaudrey@hotmail.fr"
+    },
+    {
+        "type": "IP_ADDRESS",
+        "text": "204.254.92.4"
+    },
+    {
+        "type": "CREDIT_CARD",
+        "text": "4134689406462433"
+    }
+]

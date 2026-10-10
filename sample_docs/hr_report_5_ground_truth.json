@@ -1,0 +1,14 @@
+[
+    {
+        "type": "PERSON",
+        "text": "Madeleine de Giraud"
+    },
+    {
+        "type": "EMAIL",
+        "text": "thomasandrews@gmail.com"
+    },
+    {
+        "type": "PHONE",
+        "text": "+1-881-576-8615"
+    }
+]
